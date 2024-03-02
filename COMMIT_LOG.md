@@ -1,3 +1,4 @@
 - 2024-03-02 18:27:06: test(recall): implement spreading activation (1/5)
 - 2024-03-02 15:21:52: docs(graph): implement relationship inference (2/5)
 - 2024-03-02 13:23:09: refactor(vector): add index persistence (3/5)
+- 2024-03-02 20:47:23: feat(vector): switch to HNSW index (4/5)
