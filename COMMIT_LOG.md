@@ -3,3 +3,4 @@
 - 2024-03-02 13:23:09: refactor(vector): add index persistence (3/5)
 - 2024-03-02 20:47:23: feat(vector): switch to HNSW index (4/5)
 - 2024-03-02 10:26:22: test(recall): add recency bias (5/5)
+- 2024-03-03 17:13:09: refactor(recall): implement spreading activation (1/4)
