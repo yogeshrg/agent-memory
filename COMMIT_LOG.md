@@ -5,3 +5,4 @@
 - 2024-03-02 10:26:22: test(recall): add recency bias (5/5)
 - 2024-03-03 17:13:09: refactor(recall): implement spreading activation (1/4)
 - 2024-03-03 13:36:14: refactor(vector): implement filtered search (2/4)
+- 2024-03-03 21:19:58: Merge branch 'fix/agent-memory-90' (3/4)
