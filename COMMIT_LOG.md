@@ -6,3 +6,4 @@
 - 2024-03-03 17:13:09: refactor(recall): implement spreading activation (1/4)
 - 2024-03-03 13:36:14: refactor(vector): implement filtered search (2/4)
 - 2024-03-03 21:19:58: Merge branch 'fix/agent-memory-90' (3/4)
+- 2024-03-03 10:09:47: fix(graph): add graph traversal queries (4/4)
