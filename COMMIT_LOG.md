@@ -8,3 +8,4 @@
 - 2024-03-03 21:19:58: Merge branch 'fix/agent-memory-90' (3/4)
 - 2024-03-03 10:09:47: fix(graph): add graph traversal queries (4/4)
 - 2024-07-20 12:37:22: test(consolidation): implement importance scoring (1/2)
+- 2024-07-20 13:34:00: test(consolidation): add forgetting curve (2/2)
