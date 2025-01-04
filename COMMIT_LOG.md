@@ -11,3 +11,4 @@
 - 2024-07-20 13:34:00: test(consolidation): add forgetting curve (2/2)
 - 2025-01-04 21:15:19: feat(consolidation): add forgetting curve (1/3)
 - 2025-01-04 10:49:51: feat(episodic): implement episode summarization (2/3)
+- 2025-01-04 18:08:50: test(episodic): add temporal queries (3/3)
