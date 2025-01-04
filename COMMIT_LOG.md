@@ -10,3 +10,4 @@
 - 2024-07-20 12:37:22: test(consolidation): implement importance scoring (1/2)
 - 2024-07-20 13:34:00: test(consolidation): add forgetting curve (2/2)
 - 2025-01-04 21:15:19: feat(consolidation): add forgetting curve (1/3)
+- 2025-01-04 10:49:51: feat(episodic): implement episode summarization (2/3)
