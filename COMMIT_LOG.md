@@ -13,3 +13,4 @@
 - 2025-01-04 10:49:51: feat(episodic): implement episode summarization (2/3)
 - 2025-01-04 18:08:50: test(episodic): add temporal queries (3/3)
 - 2025-01-06 11:20:45: test(episodic): implement episode summarization (1/5)
+- 2025-01-06 11:48:50: test(episodic): add temporal queries (2/5)
