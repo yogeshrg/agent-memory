@@ -15,3 +15,4 @@
 - 2025-01-06 11:20:45: test(episodic): implement episode summarization (1/5)
 - 2025-01-06 11:48:50: test(episodic): add temporal queries (2/5)
 - 2025-01-06 14:53:15: fix(graph): add entity extraction (3/5)
+- 2025-01-06 15:24:28: test(graph): add graph traversal queries (4/5)
