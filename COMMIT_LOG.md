@@ -19,3 +19,4 @@
 - 2025-01-06 14:29:31: refactor(recall): add recency bias (5/5)
 - 2025-05-11 16:16:14: docs(graph): add entity extraction (1/4)
 - 2025-05-11 21:34:26: feat(graph): add entity extraction (2/4)
+- 2025-05-11 19:55:59: docs(vector): add index persistence (3/4)
