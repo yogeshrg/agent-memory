@@ -17,3 +17,4 @@
 - 2025-01-06 14:53:15: fix(graph): add entity extraction (3/5)
 - 2025-01-06 15:24:28: test(graph): add graph traversal queries (4/5)
 - 2025-01-06 14:29:31: refactor(recall): add recency bias (5/5)
+- 2025-05-11 16:16:14: docs(graph): add entity extraction (1/4)
