@@ -21,3 +21,4 @@
 - 2025-05-11 21:34:26: feat(graph): add entity extraction (2/4)
 - 2025-05-11 19:55:59: docs(vector): add index persistence (3/4)
 - 2025-05-11 22:45:02: refactor(consolidation): add memory consolidation job (4/4)
+- 2025-05-17 11:13:51: docs(vector): add quantization (PQ) (1/3)
