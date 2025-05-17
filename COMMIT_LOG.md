@@ -22,3 +22,4 @@
 - 2025-05-11 19:55:59: docs(vector): add index persistence (3/4)
 - 2025-05-11 22:45:02: refactor(consolidation): add memory consolidation job (4/4)
 - 2025-05-17 11:13:51: docs(vector): add quantization (PQ) (1/3)
+- 2025-05-17 22:40:09: feat(consolidation): add forgetting curve (2/3)
