@@ -27,3 +27,4 @@
 - 2025-05-18 10:26:09: test(recall): add recency bias (1/2)
 - 2025-05-18 10:50:18: feat(recall): add context-aware retrieval (2/2)
 - 2025-05-24 09:11:17: docs(consolidation): add forgetting curve (1/4)
+- 2025-05-24 09:47:30: docs(vector): implement filtered search (2/4)
