@@ -28,3 +28,4 @@
 - 2025-05-18 10:50:18: feat(recall): add context-aware retrieval (2/2)
 - 2025-05-24 09:11:17: docs(consolidation): add forgetting curve (1/4)
 - 2025-05-24 09:47:30: docs(vector): implement filtered search (2/4)
+- 2025-05-24 16:54:44: refactor(episodic): implement episode summarization (3/4)
