@@ -29,3 +29,4 @@
 - 2025-05-24 09:11:17: docs(consolidation): add forgetting curve (1/4)
 - 2025-05-24 09:47:30: docs(vector): implement filtered search (2/4)
 - 2025-05-24 16:54:44: refactor(episodic): implement episode summarization (3/4)
+- 2025-05-24 22:20:17: refactor(graph): add graph traversal queries (4/4)
