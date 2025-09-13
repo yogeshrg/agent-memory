@@ -33,3 +33,4 @@
 - 2025-05-25 21:33:55: fix(consolidation): implement importance scoring (1/3)
 - 2025-05-25 15:08:49: feat(graph): implement relationship inference (2/3)
 - 2025-05-25 12:02:29: fix(graph): add entity extraction (3/3)
+- 2025-09-13 15:02:27: fix(graph): add graph traversal queries (1/2)
